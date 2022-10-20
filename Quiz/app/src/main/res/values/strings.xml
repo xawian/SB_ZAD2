@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_madryt">Madryt jest stolicą Hiszpanii</string>
+    <string name="q_polska">Polska ma 15 województw</string>
+    <string name="q_tajwan">Liczba ludności Tajwanu to ok. 24 mln</string>
+    <string name="q_cypr">Waluta na Cyprze to dolar </string>
+    <string name="correct_answer">Poprawna odpowiedz!</string>
+    <string name="incorrect_answer">Zła odpowiedz!</string>
+    <string name="answer_was_shown">Wyświetlono już odpowiedź</string>
+</resources>

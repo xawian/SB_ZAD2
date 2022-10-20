@@ -1,0 +1,57 @@
+Włączenie aplikacji
+
+---------------------------- PROCESS ENDED (3679) for package pl.edu.pb.wi ----------------------------
+---------------------------- PROCESS STARTED (6482) for package pl.edu.pb.wi ----------------------------
+2022-10-14 17:02:28.544  6482-6482  Activity                pl.edu.pb.wi                         D  Wywołana metoda onCreate()
+2022-10-14 17:02:28.886  6482-6482  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStart()
+2022-10-14 17:02:28.891  6482-6482  Activity                pl.edu.pb.wi                         D  Wywołana metoda onResume()
+
+Przycisk cofnij
+
+2022-10-14 17:05:03.723  6482-6482  Activity                pl.edu.pb.wi                         D  Wywołana metoda onPause()
+2022-10-14 17:05:04.330  6482-6482  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStop()
+
+Ponowne uruchomienie 
+
+2022-10-14 17:07:09.697  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStart()
+2022-10-14 17:07:09.698  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onResume()
+
+Po wcisnieciu home
+
+2022-10-14 17:07:54.771  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onPause()
+2022-10-14 17:07:55.319  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStop()
+
+Z listy ostatnich aplikacji
+
+2022-10-14 17:08:47.300  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStart()
+2022-10-14 17:08:47.301  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onResume()
+
+Obrót
+2022-10-14 17:12:13.435  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onPause()
+2022-10-14 17:12:13.439  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStop()
+2022-10-14 17:12:13.440  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onDestroy()
+2022-10-14 17:12:13.488  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onCreate()
+2022-10-14 17:12:13.507  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onStart()
+2022-10-14 17:12:13.507  7025-7025  Activity                pl.edu.pb.wi                         D  Wywołana metoda onResume()
+
+Byłem na 2 pytanie i wróciło na 1!
+
+
+2022-10-15 20:47:57.706 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onPause()
+2022-10-15 20:47:57.709 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onStop()
+2022-10-15 20:47:57.710 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda: onSaveInstanceState()
+2022-10-15 20:47:57.712 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onDestroy()
+2022-10-15 20:47:57.757 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onCreate()
+2022-10-15 20:47:57.825 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onStart()
+2022-10-15 20:47:57.827 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onResume()
+2022-10-15 20:47:57.832 16530-16530 ViewRootIm...nActivity] pl.edu.pb.wi                         D  hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+2022-10-15 20:47:59.720 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onPause()
+2022-10-15 20:47:59.722 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onStop()
+2022-10-15 20:47:59.723 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda: onSaveInstanceState()
+2022-10-15 20:47:59.724 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onDestroy()
+2022-10-15 20:47:59.763 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onCreate()
+2022-10-15 20:47:59.820 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onStart()
+2022-10-15 20:47:59.822 16530-16530 Activity                pl.edu.pb.wi                         D  Wywołana metoda onResume()
+2022-10-15 20:47:59.826 16530-16530 ViewRootIm...nActivity] pl.edu.pb.wi                         D  hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+
+Byłem na 2 pytaniu i zostalo na 2
